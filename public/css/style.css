@@ -1,0 +1,12 @@
+html{
+    scroll-behavior: smooth;
+}
+h2{
+    color: red;
+}
+#nav_head{
+    color: white !important;
+}
+#nav_content{
+    color: white !important;
+}
